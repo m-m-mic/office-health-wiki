@@ -4,6 +4,6 @@ Dies ist die TEAM 10 Wiki Seite.
 
 # Wichtige Seiten
 
-* **[Liste aller Dialogkomponenten](https://github.com/ID-Start-Winter21/start-team-10/wiki/Liste-alle-Dialogkomponenten)**
+* **[Liste aller Dialogkomponenten](https://github.com/ID-Start-Winter21/start-team-10/wiki/Liste-aller-Dialogkomponenten)**
 
 * **[Aktuelles Storyboard](https://github.com/ID-Start-Winter21/start-team-10/wiki/Storyboard-Version-1)**
