@@ -3,37 +3,40 @@ office health
 
 ## intents
 
-### runtime / runtime_corr
-Fragt wie lange Nutzer arbeiten möchte bzw. wie lange der Skill aktiv bleiben soll. runtime_corr korrigiert einen falschen Input.
+### runtime
+Fragt wie lange Nutzer arbeiten möchte bzw. wie lange der Skill aktiv bleiben soll.
 
 **slots**
-* `work_time_min`: Arbeitszeit in Minuten
-* `work_time_hour`: Arbeitszeit in Stunden (muss evtl. in Minuten umgerechnet werden)
+* `work_time` (Type: AMAZON.DURATION): Arbeitszeit in Minuten/Stunden
 
 **utterances**
-* "Für `{work_time_min}` Minuten."
-* "Für `{work_time_hour}` Stunden."
-(Für runtime_corr sollte ein "Nein,..." oder "Falsch,..." Teil der utterance sein)
+* "Für `{work_time}`"
+* "Ich arbeite heute für `{work_time}`"
+* "Ich arbeite `work_time`"
+* "`{work_time}`"
+
+Intent confirmation: "Für `{work_time}` also. Stimmt das?"
 
 ***
 
-### intervals / intervals_corr
+### intervals
 Fragt wie häufig der Nutzer während der Arbeit für Health Breaks unterbrochen werden will. intervals_corr korrigiert einen falschen Input.
 
 **slots**
-* `break_amount`: Anzahl an Pausen
-* `break_interval_min`: Intervall zwischen den Pausen in Minuten
-* `break_interval_hour`: Intervall zwischen den Pausen in Stunden
+* `break_amount` (Type: AMAZON.NUMBER): Anzahl an Pausen
+* `break_interval` (Type: AMAZON.DURATION): Intervall zwischen den Pausen in Minuten/Stunden
 
 **utterances**
-* "`{break_amount}` mal bitte."
-* "Alle `{break_interval_min}` bitte."
-* "Jede `{break_interval_hour}` Stunde bitte."
+* "`{break_amount}` mal bitte"
+* "Alle `{break_interval}` bitte"
+* "Jede `{break_interval}` bitte"
+
+Intent confirmation: "`{break_amount}` mal Pause also. Stimmt das?" oder "`Alle {break_interval}` also. Stimmt das?"
 
 ***
 
-### confirmation
-Bestätigt die vom Nutzer ausgewählten Einstellungen (runtime & intervals).
+### final_confirmation
+Fragt, ob der Benutzer bereit ist die Arbeitszeit zu beginnen.
 
 **utterances** 
 * "Ja."
