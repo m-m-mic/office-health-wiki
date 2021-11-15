@@ -64,7 +64,9 @@ Bestätigt, dass der Nutzer bereit ist die Übung zu beginnen. Gibt den Nutzer d
 ***
 
 ### next_exercise_ready
-Bestätigt, dass der Nutzer die nächste Übung machen möchte. (Eventuell redundant?)
+**nicht notwendig, zu redundant**
+
+Bestätigt, dass der Nutzer die nächste Übung machen möchte.
 
 **utterances**
 * "Ja."
