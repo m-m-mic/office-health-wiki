@@ -13,3 +13,7 @@ Mindestens ein _Label_ oder _Milestone_ muss angegeben werden, damit man die Iss
 <br> <br>
 Wenn mehreren Personen dem Issue zugeteilt wurden, muss **mindestens** eine weitere Person dem fertigen Issue zustimmen; Vier-Augen-Prinzip. Ist das Issue einwandfrei abgeschlossen worden, reicht es aus, wenn der Prüfer auf das Issue mit z. B. „ :+1: “ reagiert.  <br>
 Issues, die zur Erinnerung dienen und einem selbst zugeteilt wurden, könne vom Ersteller nach abarbeiten des Issues ohne Zustimmung abgeschlossen werden. Trotzdem sollte man dem Team mitteilen, dass die Aufgabe erledigt wurde.
+<br> <br>
+--------------------------------
+<br> <br>
+# Git push
