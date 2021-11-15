@@ -1,1 +1,1 @@
-![Storyboard Skizze 1](https://1drv.ms/u/s!AklPQjY4dchrhAgblWt5lHpsQdp0?e=ieFyEx)
+Storyboard Skizze 1
