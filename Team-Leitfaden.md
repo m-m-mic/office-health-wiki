@@ -22,3 +22,7 @@ Issues, die zur Erinnerung dienen und einem selbst zugeteilt wurden, könne vom 
 
 <br> <br>
 # Sprinteinteilung
+
+|          |  Melanie  |  Michael  | Isabella |    Eva    | Alexander |
+| -------- | --------- | --------- | ---------| --------- | --------- |
+| Sprint 0 |Konzept / Issues|Interaction Model | Storyboard | Dialoge | Interaction Model |
