@@ -18,7 +18,15 @@ Issues, die zur Erinnerung dienen und einem selbst zugeteilt wurden, könne vom 
 <br> <br>
 # Git push
 
+Hierbei geht es hauptsächlich um die Alexa `JSON` Datein, sowie die Python `lambda_function`. <br>
+Der _Masterbranch_ sollte so linear wie möglich sein, d.h. hier wird nur fertiger und geprüfter Code hochgeladen, der nicht mehr verändert werden muss. <br>
+Wird an dem Code noch gearbeitet und/oder eine Review benötigt, so wird er in den _Developbranch_ geladen. <br>
+Wurde anhand eines Issues der Code verändert, so sollte beim Pushen die Issuenummer und was genau codiert wurde mit angegeben werden , z. B.: _" feature/10_ButtonFunktioniertKorrekt"_
+
+Eine genauere Erklärung könnt ihr hier finden:  [Gitflow](https://www.atlassian.com/de/git/tutorials/comparing-workflows/gitflow-workflow) 
 <br> <br>
+
+Zudem sollte nicht vergessen werden, den Code in regelmäßigen Abständen in das Repository zu laden.
 
 <br> <br>
 # Sprinteinteilung
