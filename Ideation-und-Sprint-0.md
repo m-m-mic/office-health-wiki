@@ -26,10 +26,10 @@ Außerdem wird mögliche Eintönigkeit durch die Wahl verschiedener Coaches verh
 Unser erstes Storyboard/Interaktionsdiagramm mit den wichtigsten Features, die unser Skill letztendlich haben sollte. Die Dialoge müssen noch verbessert werden bzw. alternative Dialoge müssen erstellt werden.
 <br>
 # Dialoge V1.0
-[Dialoge.docx](https://github.com/ID-Start-Winter21/start-team-10/files/7546741/Dialoge.docx)
+[Dialoge1.docx](https://github.com/ID-Start-Winter21/start-team-10/files/7546741/Dialoge.docx)
 <br>
 # Dialoge V1.1
-
+[Dialoge1_1.docx](https://github.com/ID-Start-Winter21/start-team-10/files/7547151/Dialoge.docx)
 <br>
 
 # Storyboard v1.0 
