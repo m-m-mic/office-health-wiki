@@ -28,6 +28,9 @@ Unser erstes Storyboard/Interaktionsdiagramm mit den wichtigsten Features, die u
 # Dialoge V1.0
 [Dialoge.docx](https://github.com/ID-Start-Winter21/start-team-10/files/7546741/Dialoge.docx)
 <br>
+# Dialoge V1.1
+
+<br>
 
 # Storyboard v1.0 
 <br>
