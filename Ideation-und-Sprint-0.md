@@ -18,7 +18,7 @@ Außerdem wird mögliche Eintönigkeit durch die Wahl verschiedener Coaches verh
 
 <br>
 
-# Interaction Model
+# Interaction Model v1.0
 <br>
 
 ![OneNote - Interaction Tree](https://user-images.githubusercontent.com/85286401/140991067-5d3e37f2-a5d4-403c-a432-7f9d8a4014c3.png)
@@ -30,13 +30,13 @@ Unser erstes Storyboard/Interaktionsdiagramm mit den wichtigsten Features, die u
 <br>
 
 * [Dialoge v1.0](https://github.com/ID-Start-Winter21/start-team-10/files/7546741/Dialoge.docx): Ausarbeitung verschiedener Utterances für unsere Intents, sowie Frage- und Antwortmöglichkeiten für Alexa
-* [Dialoge v1.1](https://github.com/ID-Start-Winter21/start-team-10/files/7547151/Dialoge.docx): die nachgebesserte Version, mit noch mehr Utterances für den User (mit gelbem Marker hervorgehoben).
+* [Dialoge v1.1](https://github.com/ID-Start-Winter21/start-team-10/files/7547151/Dialoge.docx): Die nachgebesserte Version, mit noch mehr Utterances für den User (mit gelbem Marker hervorgehoben)
 <br>
 
-## Interaction Model als json Datei
+## JSON Datei
 <br>
 
-* [Json Datei (DE-de.json)](office-health-files/interactionModels/custom/de-DE.json): Ausgearbeitete Dialoge als in Json Datei eingefügt
+* [de-DE.json](https://github.com/ID-Start-Winter21/start-team-10/blob/1a402ba96cf6a6602306bb8fadcdd4b306b8a630/office-health-files/interactionModels/custom/de-DE.json): Die ausgearbeiteten Dialoge wurden in die JSON Datei eingefügt
 <br>
 
 # Storyboard v1.0 
