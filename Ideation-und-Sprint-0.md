@@ -30,7 +30,7 @@ Unser erstes Storyboard/Interaktionsdiagramm mit den wichtigsten Features, die u
 <br>
 
 * [Dialoge v1.0](https://github.com/ID-Start-Winter21/start-team-10/files/7546741/Dialoge.docx): Ausarbeitung verschiedener Utterances für unsere Intents, sowie Frage- und Antwortmöglichkeiten für Alexa
-* [Dialoge v1.1](https://github.com/ID-Start-Winter21/start-team-10/files/7547151/Dialoge.docx): die nachgebesserte Version mit noch mehr Utterances für den User (mit gelben Marker hervorgehoben).
+* [Dialoge v1.1](https://github.com/ID-Start-Winter21/start-team-10/files/7547151/Dialoge.docx): die nachgebesserte Version, mit noch mehr Utterances für den User (mit gelbem Marker hervorgehoben).
 <br>
 
 ## Interaction Model als json Datei
