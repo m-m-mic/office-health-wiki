@@ -47,29 +47,29 @@ Unser erstes Storyboard/Interaktionsdiagramm mit den wichtigsten Features, die u
 
 # Icon Entwürfe
 
-## Mellis Entwurf:
+## Mellis Entwurf
 <br>
 
 <img src="https://user-images.githubusercontent.com/91656527/141678837-84edbd0a-307e-461b-a9b9-4e0cb2d64e09.png" alt="Mellis Entwurf" height="300"/>
 
-## Isabellas Entwurf:
+## Isabellas Entwurf
 <br>
 
 <img src="https://user-images.githubusercontent.com/91656704/142195212-dba97790-a5f3-4dea-bf3e-e634fea1f9ce.png" alt="Isabellas Entwurf" height="300"/>
 
-## Evis Entwurf:
+## Evis Entwurf
 <br>
 
 <img src="https://user-images.githubusercontent.com/91656447/142302385-096dab91-8098-4d5e-a304-edd15f7b8ab3.png" alt="Evis Entwurf" height="300"/>
 
-## Michaels Entwurf:
+## Michaels Entwurf
 <br>
 
 <img src="https://user-images.githubusercontent.com/85286401/142408912-fec01782-1bdc-413f-9c3b-ffe73ea0d424.png" alt="Michaels Entwurf 1" height="300"/>
 &nbsp;
 <img src="https://user-images.githubusercontent.com/85286401/142408644-303735da-79b6-4f4a-abcf-ba5a3461e0c9.png" alt="Michaels Entwurf 2" height="300"/>
 
-## Alex' Entwurf:
+## Alex' Entwurf
 <br>
 <img src="https://user-images.githubusercontent.com/23060293/142495659-bd7983e9-59d1-433a-92b6-4d66410c2b6a.png" alt="Alex' Entwurf" height="300"/>
 
