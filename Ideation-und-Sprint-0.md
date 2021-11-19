@@ -45,4 +45,22 @@ Unser erstes Storyboard/Interaktionsdiagramm mit den wichtigsten Features, die u
 ![grafik](https://user-images.githubusercontent.com/91656704/141814253-a17764b5-cdca-4bcb-b2a0-650c0d3d7524.png)
 <br>
 
+# Icon Entwürfe
+<br>
+Mellis Entwurf:
+![Frame 1](https://user-images.githubusercontent.com/91656527/141678837-84edbd0a-307e-461b-a9b9-4e0cb2d64e09.png)
+<br>
+Isabellas Entwurf:
+![Icon Office Health](https://user-images.githubusercontent.com/91656704/142195212-dba97790-a5f3-4dea-bf3e-e634fea1f9ce.png)
+<br>
+Evis Entwurf:
+![Office Health (1)](https://user-images.githubusercontent.com/91656447/142302385-096dab91-8098-4d5e-a304-edd15f7b8ab3.png)
+<br>
+Michaels Entwurf:
+![icon_ver2_1500px](https://user-images.githubusercontent.com/85286401/142408912-fec01782-1bdc-413f-9c3b-ffe73ea0d424.png)
+<br>
+Alex's Entwurf:
+![Screenshot 2021-11-18 215625](https://user-images.githubusercontent.com/23060293/142495659-bd7983e9-59d1-433a-92b6-4d66410c2b6a.png)
+<br>
+
 ## Feedback on v1.0
