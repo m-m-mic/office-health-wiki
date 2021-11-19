@@ -16,3 +16,10 @@ Unser finales Icon Design, welches unseren Office Health Skill repräsentiert. W
 </p>
 
 Der für das Logo verwendete Farbverlauf ist festgelegt (`#43f3e4` - `#457efd` - `#972bea`) und soll für sämtliches Designmaterial verwendet werden.
+
+# Interaction Model
+## Dialoge 
+
+<br> 
+
+[Dialog v2.0](https://github.com/ID-Start-Winter21/start-team-10/files/7571033/Dialoge.docx): Unterteilung in Blöcke
