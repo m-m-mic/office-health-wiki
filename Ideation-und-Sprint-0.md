@@ -65,7 +65,9 @@ Unser erstes Storyboard/Interaktionsdiagramm mit den wichtigsten Features, die u
 ## Michaels Entwurf:
 <br>
 
-<img src="https://user-images.githubusercontent.com/85286401/142408912-fec01782-1bdc-413f-9c3b-ffe73ea0d424.png" alt="Michaels Entwurf" height="300"/>
+<img src="https://user-images.githubusercontent.com/85286401/142408912-fec01782-1bdc-413f-9c3b-ffe73ea0d424.png" alt="Michaels Entwurf 1" height="300"/>
+&nbsp;
+<img src="https://user-images.githubusercontent.com/85286401/142408644-303735da-79b6-4f4a-abcf-ba5a3461e0c9.png" alt="Michaels Entwurf 2" height="300"/>
 
 ## Alex' Entwurf:
 <br>
