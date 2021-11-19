@@ -1,4 +1,4 @@
-![Wiki Logo](https://github.com/ID-Start-Winter21/start-team-10/blob/0c1d9bfa1e412ed8d9f3225be02e5121394ca3a6/img-folder/wiki1_stripe_logo.png)
+![Wiki Logo](https://github.com/ID-Start-Winter21/start-team-10/blob/518f6950ced123da67d7d2153479230ac71e6232/img-folder/wiki_banner.png)
 
 # Team 10 **Office Health** <br>
  
