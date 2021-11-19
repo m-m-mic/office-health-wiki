@@ -46,26 +46,31 @@ Unser erstes Storyboard/Interaktionsdiagramm mit den wichtigsten Features, die u
 <br>
 
 # Icon Entwürfe
+
+## Mellis Entwurf:
 <br>
-Mellis Entwurf:
+
+<img src="https://user-images.githubusercontent.com/91656527/141678837-84edbd0a-307e-461b-a9b9-4e0cb2d64e09.png" alt="Mellis Entwurf" height="300"/>
+
+## Isabellas Entwurf:
 <br>
-![Frame 1](https://user-images.githubusercontent.com/91656527/141678837-84edbd0a-307e-461b-a9b9-4e0cb2d64e09.png)
+
+<img src="https://user-images.githubusercontent.com/91656704/142195212-dba97790-a5f3-4dea-bf3e-e634fea1f9ce.png" alt="Isabellas Entwurf" height="300"/>
+
+## Evis Entwurf:
 <br>
-Isabellas Entwurf:
+
+<img src="https://user-images.githubusercontent.com/91656447/142302385-096dab91-8098-4d5e-a304-edd15f7b8ab3.png" alt="Evis Entwurf" height="300"/>
+
+## Michaels Entwurf:
 <br>
-![Icon Office Health](https://user-images.githubusercontent.com/91656704/142195212-dba97790-a5f3-4dea-bf3e-e634fea1f9ce.png)
+
+<img src="https://user-images.githubusercontent.com/85286401/142408912-fec01782-1bdc-413f-9c3b-ffe73ea0d424.png" alt="Michaels Entwurf" height="300"/>
+
+## Alex' Entwurf:
 <br>
-Evis Entwurf:
-<br>
-![Office Health (1)](https://user-images.githubusercontent.com/91656447/142302385-096dab91-8098-4d5e-a304-edd15f7b8ab3.png)
-<br>
-Michaels Entwurf:
-<br>
-![icon_ver2_1500px](https://user-images.githubusercontent.com/85286401/142408912-fec01782-1bdc-413f-9c3b-ffe73ea0d424.png)
-<br>
-Alex' Entwurf:
-<br>
-![Screenshot 2021-11-18 215625](https://user-images.githubusercontent.com/23060293/142495659-bd7983e9-59d1-433a-92b6-4d66410c2b6a.png)
+<img src="https://user-images.githubusercontent.com/23060293/142495659-bd7983e9-59d1-433a-92b6-4d66410c2b6a.png" alt="Alex' Entwurf" height="300"/>
+
 <br>
 
 ## Feedback on v1.0
