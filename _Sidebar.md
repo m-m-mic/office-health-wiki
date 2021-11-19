@@ -10,4 +10,5 @@
 
 <br>
 
-![wiki_sidebar](https://user-images.githubusercontent.com/85286401/142630239-fa531798-cedc-4c11-af67-a9922a6df5ff.png)
+![wiki_sidebar](https://user-images.githubusercontent.com/85286401/142630392-beaf9dcd-207c-492d-aaf1-0fbeac135153.png)
+
