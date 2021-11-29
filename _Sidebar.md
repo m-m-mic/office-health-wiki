@@ -1,3 +1,6 @@
+
+![wiki_sidebar](https://user-images.githubusercontent.com/85286401/142630392-beaf9dcd-207c-492d-aaf1-0fbeac135153.png)
+
 # Inhaltsverzeichnis
 
 ## Hauptseiten
@@ -21,5 +24,4 @@
 
 <br>
 
-![wiki_sidebar](https://user-images.githubusercontent.com/85286401/142630392-beaf9dcd-207c-492d-aaf1-0fbeac135153.png)
 
