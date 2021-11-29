@@ -5,6 +5,7 @@ Damit ein Issue für wirklich jeden verständlich ist und erfolgreich und ohne M
 
 *  Klare und ausführliche Problembeschreibung, warum das Issue erstellt wurde
 *  Angaben von Akzeptanzkriterien (was MUSS erfüllt werden)
+*  Wie wollen wir das Issue in dem Voice Assistenten einbauen?
 *  Genaue Zielsetzung und Definition 
 *  Frist, bis wann das Issue fertig sein muss<br>
 
@@ -21,7 +22,9 @@ Issues, die zur Erinnerung dienen und einem selbst zugeteilt wurden, könne vom 
 Hierbei geht es hauptsächlich um die Alexa `JSON` Datein, sowie die Python `lambda_function`. <br>
 Der _Masterbranch_ sollte so linear wie möglich sein, d.h. hier wird nur fertiger und geprüfter Code hochgeladen, der nicht mehr verändert werden muss. <br>
 Wird an dem Code noch gearbeitet und/oder eine Review benötigt, so wird er in den _Developbranch_ geladen. <br>
-Wurde anhand eines Issues der Code verändert, so sollte beim Pushen die Issuenummer und was genau codiert wurde mit angegeben werden , z. B.: _" feature/10_ButtonFunktioniertKorrekt"_
+Wurde anhand eines Issues der Code verändert, so sollte beim Pushen die Issuenummer und was genau codiert wurde mit angegeben werden , z. B.: _" feature/10_ButtonFunktioniertKorrekt"_ <br>
+**Es dürfen keine Zip Datein hochgeladen werden. Befinden sich doch welche in einem Branch, werden sie gelöscht.** <br>
+Zudem müssen in jedem Branch `.gitignore` Datei vorhanden sein. In ihr wird geregelt, welche Daten Github ignorieren kann. Dies hilft uns enorm, da es sonst zu unbekannten Programmstörungen kommen kann, wenn ein weiteres Teammitglied an dem Code arbeitet. <br>
 
 Eine genauere Erklärung könnt ihr hier finden:  [Gitflow](https://www.atlassian.com/de/git/tutorials/comparing-workflows/gitflow-workflow) 
 <br> <br>
@@ -34,3 +37,4 @@ Zudem sollte nicht vergessen werden, den Code in regelmäßigen Abständen in da
 |          |  Melanie  |  Michael  | Isabella |    Eva    | Alexander |
 | -------- | --------- | --------- | ---------| --------- | --------- |
 | Sprint 0 |Konzept / Issues|Interaction Model | Storyboard | Dialoge | Interaction Model |
+| Sprint 1 | Recherche, Intents, Wiki| Struktur, Intents | Struktur, Intents | Recherche, Intents, Wiki | Struktur, Intents|
