@@ -151,3 +151,27 @@ Indem wir die verschiedenen Ausgaben von Alexa in einzelne Teile aufgeteilt habe
 _Alex, Eva, Melanie hier Erklärung einfügen_
 
 <br>
+
+# Sprint Review Planung
+<br>
+
+**Demo des Skills:**
+- Wir stellen beim Review einen Prototypen unseres Skills vor
+- Der Skill soll in der Alexa Mobile App laufen
+
+<br>
+
+**Planung für das Hi!A Festival:**
+- Teamvorstellung
+- Online-Präsentation mit Designelementen
+- Skill-Demo mit Ausblick auf die Zukunft
+- Einblick in die Entwicklung
+
+<br>
+
+**Was wollen wir in Sprint 2 (bzw. bis zum Festival) schaffen:**
+- "Intent Chaining": Manche Intents sollen automatisch auf andere folgen
+- Einfügen von Sprechpausen mit SSML (`<break>` oder `<audio>`)
+- Dialoge nochmals überarbeiten, Variationen für `workout_explanation` und `workout_init`
+
+<br>
