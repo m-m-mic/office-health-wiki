@@ -27,7 +27,15 @@ Der für das Logo verwendete Farbverlauf ist festgelegt (`#43f3e4` - `#457efd` -
 ## Beschreibung
 <br>
 
-_Isabella hier Beschreibung erklären_
+Für ein besseres Verständnis von "Office Health" wurde in der Alexa Developer Console eine Beschreibung des Skills erstellt.
+
+Mit der One Sentence Description
+"Bleib fit bei der Arbeit! "Office Health" hilft dir auf deine Gesundheit zu achten, indem es mit dir regelmäßig Übungen macht."
+werden dem Nutzer schnell und pregnant die Vorteile des Skills und seine Funktion dargelegt.
+
+Die Detailed Description hingegen bietet mehr Auskunft. Sie zeigt dem Nutzer verschiedene Probleme bei der Büroarbeit auf, die mit diesm Skill behoben werden können und erklärt verschieden Funktionen von "Office Health" genauer. Des Weiteren macht sie die Einzigartigkeit und die Notwendigkeit des Skills deutlich.
+
+So erhält der Nutzer alle wichtigen Informationen auf einem Blick.
 
 <br>
 
