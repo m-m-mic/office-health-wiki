@@ -70,7 +70,6 @@ Die verschiedenen Intents sind auch in der [Liste aller Dialogkomponenten](https
 
 
 * Fokus auf Dehnübungen: [Dehnübungen_Alexa](https://github.com/ID-Start-Winter21/start-team-10/files/7619621/Sportubungen_Alexa.docx)
-
 * Fokus auf Muskelübungen: [sportübungen verbessert.docx](https://github.com/ID-Start-Winter21/start-team-10/files/7637197/sportubungen.verbessert.docx)
 <br>
 
