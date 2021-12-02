@@ -168,6 +168,12 @@ Indem wir die verschiedenen Ausgaben von Alexa in einzelne Teile aufgeteilt habe
 
 _Alex, Eva, Melanie hier Erklärung einfügen_
 
+Bsp für den ```speak_output``` bei der Beschreibung der ersten Übung:
+```
+if attr['exercisenum'] == 0:
+            speak_output = "<speak>Deine nächste Übung heißt " + attr['stretch_one'][0] + '. ' + attr['stretch_one'][3] + "<break time=\"2s\"/> Soll ich die Anleitung wiederholen oder kann es los gehen? </speak>"
+        
+```
 <br>
 
 # Sprint Review Planung
