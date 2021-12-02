@@ -99,8 +99,30 @@ Wir haben in diesem Sprint verschiedene Funktionen erarbeitet und diese in unser
 
 ## Dreimalige Wiederholung des `workout_init` Intents
 <br>
+Innerhalb einer workout-Session sollen indgesamt 3 übungen gemacht werden, also brauchen wir eine Möglichkeit, dass Alexas Aussagen nach einer Übung sich abhängig von der Anzahl verbleibender Übungen verändern.
+Nach den Ersten zwei Übungen sollte der User utterances nutzen, durch die eine weitere Übung begonnen wird und nach der letzten solche sodass der `session_init` Intent aufgerufen wird und die nächste arbeits-Session beginnt.
+Dazu habe ich ein persistent attribute genuzt, welches be jeder Übung hochzählt und nach der dritten Übung wieder auf 0 gesetzt wird.
 
-_Alex hier deine Erklärung einfügen_
+```python
+attr = handler_input.attributes_manager.persistent_attributes
+if not attr:
+    attr['exercisenum'] = 0
+attr['exercisenum'] += 1
+
+...#Ausgabe der Übung selbst
+
+if attr['exercisenum'] < 3:
+        if attr['exercisenum'] == 1:
+                ...#Ausgabe nach Erster Übung
+        else:
+                ...#Ausgabe nach Drittter Übung
+else:
+    ...#Ausgabe nach letzter Übung
+    attr['exercisenum'] = 0
+
+#Speichern des Attributes
+handler_input.attributes_manager.save_persistent_attributes()
+```
 
 <br>
 
