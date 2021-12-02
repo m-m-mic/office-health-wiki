@@ -68,7 +68,12 @@ Die verschiedenen Intents sind auch in der [Liste aller Dialogkomponenten](https
 ## Liste an Sportübungen
 <br>
 
-_Melanie, Eva hier Übungen erklären_
+
+[Sportübungen_Alexa_2.0](https://github.com/ID-Start-Winter21/start-team-10/files/7619621/Sportubungen_Alexa.docx)
+<br>
+
+[sportübungen verbessert.docx](https://github.com/ID-Start-Winter21/start-team-10/files/7637197/sportubungen.verbessert.docx)
+
 
 <br>
 
