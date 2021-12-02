@@ -242,7 +242,6 @@ listifyExercise('sport', sports, r2)
 listifyExercise('stretch_two', stretches, r3)
 ```
 
-_Alex, Eva, Melanie hier Erklärung einfügen_
 
 Bsp für den ```speak_output``` bei der Beschreibung der ersten Übung:
 ```
@@ -250,6 +249,37 @@ if attr['exercisenum'] == 0:
             speak_output = "<speak>Deine nächste Übung heißt " + attr['stretch_one'][0] + '. ' + attr['stretch_one'][3] + "<break time=\"2s\"/> Soll ich die Anleitung wiederholen oder kann es los gehen? </speak>"
         
 ```
+## Übungsintervall runterzählen
+<br>
+
+Damit der Nutzer auch ein Gefühl dafür bekommt, wie lange er die Übung ausführen muss und wie viel Zeit noch vor ihm liegt. 
+Da wir noch Probleme haben die eigentlich gedachte Definition als Output auszugeben, wurde vorerst die Funktion in den starren Ablauf eingefügt. 
+Die Logik dahinter besteht darin, das geplante Zeitintervall der Übung abzurufen und dann in einer `while-Schleife` zu verringern. 
+Damit die Texte für den Anfang nicht eintönig werden, gibt es mehrere `if-Abfragen`. Diese werden in der Zukunft durch bessere Möglichkeiten (z.B. zufällige abfrage des index einer liste; wie bei der Ausahl der Sportübungen) ersetzt.
+Wenn wir die Implementierung als `def` haben, kann man mit einer `if-Abfrage` auch ganz einfach Wiederholungen bei Seitenwechsel mitreinbauen.
+
+Jetziger Code: <br>
+
+```python
+        time = attr["stretch_one"][1] # Countdown der die Zeitintervalle der Übungen runterzählt.
+        while time != 0:
+            if time >= 30: 
+                outp += ("Diese Übung wird wohl etwas länger. Also beweg deinen Arsch mal so richtig!<break time =\"10s\"/> Kommst du schon ins Schwitzen? <break time =\"10s\"/>")
+                time -= 25
+            if time == 30:
+                outp += ("30 sekunden hast du vor dir! Leg dich ins Zeug. <break time =\"10s\"/> Nur noch die hälfte, gib also mal richtig Gas!<break time =\"10s\"/> ")
+                time -= 25
+            if time > 10: 
+                outp += ("Die Zeit läuft, streng dich also mal an! <break time=\"9s\"/> ")
+                time -= 10
+            if time == 10:
+                outp += ("Die zehn Sekunden schaffst du bestimmt nicht. <break time =\"3s\"/> ")
+                time -= 5
+            if time == 5:
+                outp +=  ("Noch fünf Sekunden. Fünf <break time =\"1s\"/> vier <break time =\"1s\"/> drei <break time =\"1s\"/> zwei <break time =\"1s\"/> eins <break time =\"1s\"/> Na endlich! ")
+                time -= 5
+```
+
 <br>
 
 # Sprint Review Planung
