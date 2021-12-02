@@ -1,3 +1,5 @@
+_Letzter commit vor Abgabe: [1a402ba](https://github.com/ID-Start-Winter21/start-team-10/commit/1a402ba96cf6a6602306bb8fadcdd4b306b8a630)_
+
 # Konzept
 <br>
 
