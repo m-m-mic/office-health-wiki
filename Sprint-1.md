@@ -187,6 +187,59 @@ Indem wir die verschiedenen Ausgaben von Alexa in einzelne Teile aufgeteilt habe
 
 ## Zufällige Auswahl von Sportübungen
 <br>
+Um Abwechslung zu garantieren haben wir entschieden, dass die Übungen während den workouts zufällig aus einer großen Liste Möglicher Übungen gewählt werden. Dazu haben wir erst eine JSON datei mit allen Übungen und ihren Daten erstellt und diese in Dehn- und Sportübungen aufgeteilt.
+
+```python
+#json Datei wird in python als dict geladen
+exercisesDict = json.load(open('exercise.json', 'r'))
+#liste aller dehnübungen
+stretches = exercisesDict['stretch']
+#liste aller sportübungen
+sports = exercisesDict['sport']
+```
+
+Zuerst war wichtig, dass vor jedem Workout drei zufällige Übungen ausgewählt, was in dem `session_initHandler` geregelt wird.
+Ein Workout sollte mit einer Dehnübung anfangen, gefolgt von einer Sportübung und wieder einer Dehnübung. Somit werden drei zufällige Zahlen gespeichert wobei die erste und dritte sich unterscheiden sollten um gleiche Übungen in einem Workout zu verhindern.
+
+```python
+stl = len(stretches)
+spl = len(sports)
+
+r1 = random.randrange(0, stl)
+r2 = random.randrange(0, spl)
+r3 = r1
+while r3 == r1:
+    r3 = random.randrange(0, stl)
+```
+
+Die Übungen und ihre Details werden in persistent attributes gespeichert damit auf sie auch in anderen Intents zugegriffen werden kann. 
+Diese sind eine Liste die Namen, Wiederholungen, ob ein Seitenwechsel nötig ist, sowie eine Erklärung zur Ausführung der Übung enthalten sind.
+
+```python
+#Beispiel für die Attribute
+attr['stretch_one'] = ['name', 0, False, 'beschreibung']
+attr['sport'] = ['name', 0, False, 'beschreibung']
+attr['stretch_two'] = ['name', 0, False, 'beschreibung']
+```
+
+wir brauchen eine Funktion die eine Übung aus einer der Übungslisten in einem attribut speichert.
+
+```pyhton
+def listifyExercise(attrName, exList, rn):
+    attr[attrName][0] = exList[rn]['name']
+    attr[attrName][1] = int(exList[rn]['dauer'])
+    attr[attrName][2] = exList[rn]['seitenwechsel'] == 'TRUE'
+    attr[attrName][3] = exList[rn]['beschreibung']
+    handler_input.attributes_manager.save_persistent_attributes()
+```
+
+nun wird die Funktion drei mal mit dem richtigen attribut namen, der dazugehörigen Übungsliste und dem Zufälligen Wert aufgerufen.
+
+```python
+listifyExercise('stretch_one', stretches, r1)
+listifyExercise('sport', sports, r2)
+listifyExercise('stretch_two', stretches, r3)
+```
 
 _Alex, Eva, Melanie hier Erklärung einfügen_
 
