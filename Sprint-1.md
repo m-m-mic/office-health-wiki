@@ -69,10 +69,16 @@ Die verschiedenen Intents sind auch in der [Liste aller Dialogkomponenten](https
 <br>
 
 
-[Sportübungen_Alexa_2.0](https://github.com/ID-Start-Winter21/start-team-10/files/7619621/Sportubungen_Alexa.docx)
+* Fokus auf Dehnübungen: [Dehnübungen_Alexa](https://github.com/ID-Start-Winter21/start-team-10/files/7619621/Sportubungen_Alexa.docx)
+
+* Fokus auf Muskelübungen: [sportübungen verbessert.docx](https://github.com/ID-Start-Winter21/start-team-10/files/7637197/sportubungen.verbessert.docx)
 <br>
 
-[sportübungen verbessert.docx](https://github.com/ID-Start-Winter21/start-team-10/files/7637197/sportubungen.verbessert.docx)
+Beide Dokumente sind so aufgebaut:
+* Kurzbefehl/Einleitung (falls der User schon mit dem Skill bekannt ist)
+* zwei Beschreibungen (eine kürzere und eine ausführlichere)
+* Aussagen die Alexa während der Übung sagen kann
+
 
 
 <br>
