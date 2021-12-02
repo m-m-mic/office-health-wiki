@@ -78,7 +78,7 @@ Die verschiedenen Intents sind auch in der [Liste aller Dialogkomponenten](https
 
 
 * Fokus auf Dehnübungen: [Dehnübungen_Alexa](https://github.com/ID-Start-Winter21/start-team-10/files/7619621/Sportubungen_Alexa.docx)
-* Fokus auf Muskelübungen: [sportübungen verbessert.docx](https://github.com/ID-Start-Winter21/start-team-10/files/7637197/sportubungen.verbessert.docx)
+* Fokus auf Muskelübungen: [sportübungen verbessert](https://github.com/ID-Start-Winter21/start-team-10/files/7637197/sportubungen.verbessert.docx)
 <br>
 
 Beide Dokumente sind so aufgebaut:
@@ -188,6 +188,7 @@ Indem wir die verschiedenen Ausgaben von Alexa in einzelne Teile aufgeteilt habe
 
 ## Zufällige Auswahl von Sportübungen
 <br>
+
 Um Abwechslung zu garantieren haben wir entschieden, dass die Übungen während den workouts zufällig aus einer großen Liste Möglicher Übungen gewählt werden. Dazu haben wir erst eine JSON datei mit allen Übungen und ihren Daten erstellt und diese in Dehn- und Sportübungen aufgeteilt.
 
 ```python
@@ -223,7 +224,7 @@ attr['sport'] = ['name', 0, False, 'beschreibung']
 attr['stretch_two'] = ['name', 0, False, 'beschreibung']
 ```
 
-wir brauchen eine Funktion die eine Übung aus einer der Übungslisten in einem attribut speichert.
+Wir brauchen eine Funktion die eine Übung aus einer der Übungslisten in einem attribut speichert.
 
 ```pyhton
 def listifyExercise(attrName, exList, rn):
@@ -234,7 +235,7 @@ def listifyExercise(attrName, exList, rn):
     handler_input.attributes_manager.save_persistent_attributes()
 ```
 
-nun wird die Funktion drei mal mit dem richtigen attribut namen, der dazugehörigen Übungsliste und dem Zufälligen Wert aufgerufen.
+Nun wird die Funktion drei mal mit dem richtigen attribut namen, der dazugehörigen Übungsliste und dem Zufälligen Wert aufgerufen.
 
 ```python
 listifyExercise('stretch_one', stretches, r1)
@@ -242,13 +243,15 @@ listifyExercise('sport', sports, r2)
 listifyExercise('stretch_two', stretches, r3)
 ```
 
+Beispiel für den ```speak_output``` bei der Beschreibung der ersten Übung:
 
-Bsp für den ```speak_output``` bei der Beschreibung der ersten Übung:
 ```
 if attr['exercisenum'] == 0:
-            speak_output = "<speak>Deine nächste Übung heißt " + attr['stretch_one'][0] + '. ' + attr['stretch_one'][3] + "<break time=\"2s\"/> Soll ich die Anleitung wiederholen oder kann es los gehen? </speak>"
-        
+            speak_output = "<speak>Deine nächste Übung heißt " + attr['stretch_one'][0] + '. ' + attr['stretch_one'][3] + "<break time=\"2s\"/> Soll ich die Anleitung wiederholen oder kann es los gehen? </speak>" 
 ```
+
+<br>
+
 ## Übungsintervall runterzählen
 <br>
 
@@ -301,7 +304,7 @@ Jetziger Code: <br>
 
 **Was wollen wir in Sprint 2 (bzw. bis zum Festival) schaffen:**
 - "Intent Chaining": Manche Intents sollen automatisch auf andere folgen
-- Einfügen von Sprechpausen mit SSML (`<break>` oder `<audio>`)
+- Einfügen von weiteren Sprechpausen mit SSML (`<break>` oder `<audio>`)
 - Dialoge nochmals überarbeiten, Variationen für `workout_explanation` und `workout_init`
 
 <br>
