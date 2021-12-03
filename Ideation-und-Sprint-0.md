@@ -76,5 +76,3 @@ Unser erstes Storyboard/Interaktionsdiagramm mit den wichtigsten Features, die u
 <img src="https://user-images.githubusercontent.com/23060293/142495659-bd7983e9-59d1-433a-92b6-4d66410c2b6a.png" alt="Alex' Entwurf" height="300"/>
 
 <br>
-
-## Feedback on v1.0
