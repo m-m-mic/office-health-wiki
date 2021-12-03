@@ -15,7 +15,6 @@
   * [Dialoge](https://github.com/ID-Start-Winter21/start-team-10/wiki/Ideation-und-Sprint-0#dialoge)
   * [Storyboard](https://github.com/ID-Start-Winter21/start-team-10/wiki/Ideation-und-Sprint-0#storyboard-v10)
   * [Icon Entwürfe](https://github.com/ID-Start-Winter21/start-team-10/wiki/Ideation-und-Sprint-0#icon-entw%C3%BCrfe)
-  * [Feedback on v1.0](https://github.com/ID-Start-Winter21/start-team-10/wiki/Ideation-und-Sprint-0#feedback-on-v10)
 * ### [Sprint 1](https://github.com/ID-Start-Winter21/start-team-10/wiki/Sprint-1)
   * [Gestaltung](https://github.com/ID-Start-Winter21/start-team-10/wiki/Sprint-1#gestaltung)
   * [Interaction Model v2.0](https://github.com/ID-Start-Winter21/start-team-10/wiki/Sprint-1#interaction-model-v20)
