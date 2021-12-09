@@ -17,4 +17,4 @@ Die Mitglieder des Teams sind:
 
 ![Screenshot 2021-11-16 092329](https://user-images.githubusercontent.com/91656527/141948038-3734fea3-f998-4b1d-ac7b-9cbe3a26b95a.png)
 
-Am 10.12.2021 stellen wir für das Hi!A Festival unsere Alphaversion des Alexa Skills **Office Health** vor und werden die Besucher hoffentlich ins Schwitzen bringen. Nach aktuellen Stand findet die Präsentation in der _Hochschule München für angewandte Wissenschaften_ statt und geht von 15:00 Uhr bis 16:30 Uhr. 
+Am 10.12.2021 stellen wir für das Hi!A Festival unsere Alphaversion des Alexa Skills **Office Health** vor und werden die Besucher hoffentlich ins Schwitzen bringen. Nach aktuellen Stand findet die Präsentation in der _Hochschule München für angewandte Wissenschaften_ statt und geht von 14:00 Uhr bis 15:30 Uhr. 
