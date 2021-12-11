@@ -5,12 +5,11 @@
 Herzlich willkommen auf dem Wiki für unseren Alexa Skill **Office Health**. <br>
 In diesem Wiki bekommst du einen Einblick in die Prozessabläufe, der Gestaltung und der Architektur hinter unserem Alexa Skill. <br><br>
 Die Teammitglieder sind:<br>
- [![melli](https://user-images.githubusercontent.com/91656527/145688039-a4a06c5f-7851-4f35-96af-9e0a8ab832fc.png)](https://github.com/bauer30)
- [![michi](https://user-images.githubusercontent.com/91656527/145688062-d204f912-3dcb-4514-b032-198d7fc35b01.png)](https://github.com/m-m-mic)
- [![bella](https://user-images.githubusercontent.com/91656527/145688084-d58fb909-383b-43c8-aa16-28bcddd958d4.png)](https://github.com/IchIsabella) <br>
-
- [![evi](https://user-images.githubusercontent.com/91656527/145688100-a224721e-a1d6-4462-adb3-9b3509a09e30.png)](https://github.com/madlmaedl) 
- [![alex](https://user-images.githubusercontent.com/91656527/145688114-609bff37-3be9-477a-a966-b769fbd98ea7.png)](https://github.com/Woodime) <br>
+ [<img src="https://user-images.githubusercontent.com/91656527/145688039-a4a06c5f-7851-4f35-96af-9e0a8ab832fc.png" alt="melli" width="200"/>](https://github.com/bauer30) 
+[<img src="https://user-images.githubusercontent.com/91656527/145688062-d204f912-3dcb-4514-b032-198d7fc35b01.png" alt="michi" width="200"/>](https://github.com/m-m-mic)
+ [<img src="https://user-images.githubusercontent.com/91656527/145688084-d58fb909-383b-43c8-aa16-28bcddd958d4.png" alt="bella" width="200"/>](https://github.com/IchIsabella) <br>
+[<img src="https://user-images.githubusercontent.com/91656527/145688100-a224721e-a1d6-4462-adb3-9b3509a09e30.png" alt="evi" width="200"/>](https://github.com/madlmaedl) 
+[<img src="https://user-images.githubusercontent.com/91656527/145688114-609bff37-3be9-477a-a966-b769fbd98ea7.png" alt="alex" width="200"/>](https://github.com/Woodime) <br>
 
 <br> <br>
 
