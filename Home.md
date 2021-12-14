@@ -17,4 +17,4 @@ Die Teammitglieder sind:<br>
 
 ![Screenshot 2021-11-16 092329](https://user-images.githubusercontent.com/91656527/141948038-3734fea3-f998-4b1d-ac7b-9cbe3a26b95a.png)
 
-Am 10.12.2021 stellen wir für das Hi!A Festival unsere Alphaversion des Alexa Skills **Office Health** vor und werden die Besucher hoffentlich ins Schwitzen bringen. Nach aktuellen Stand findet die Präsentation in der _Hochschule München für angewandte Wissenschaften_ statt und geht von 14:00 Uhr bis 15:30 Uhr. 
+Am 10.12.2021 haben wir für das Hi!A Festival unsere Alphaversion des Alexa Skills **Office Health** vorgestellt. Die Präsentation fand zwischen 14 bis 15:30 Uhr an der _Hochschule München für angewandte Wissenschaften_ vor einem Online-Puplkim statt. Mehr Informationen finden sie in unserer [Sprint 2 Dokumentation](https://github.com/ID-Start-Winter21/start-team-10/wiki/Sprint-2#hia-festival).
