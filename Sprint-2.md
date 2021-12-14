@@ -3,6 +3,8 @@ _Letzter commit vor Abgabe: [insert last commit here]()_
 # Hi!A Festival
 <br>
 
+![Hi!A Logo](https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/hia_banner.png)
+
 Am 10. Dezember 2021 haben wir im Rahmen des Hi!A Festivals unseren "Office Health" Skill vorgestellt. Für die Präsentation haben wir sowohl Folien als auch einen Durchlauf unseres Skills geplant.
 
 <br>
