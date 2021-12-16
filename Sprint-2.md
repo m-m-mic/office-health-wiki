@@ -1,4 +1,4 @@
-_Letzter commit vor Abgabe: [insert last commit here]()_
+_Letzter commit vor Abgabe: [d7fe3b7](https://github.com/ID-Start-Winter21/start-team-10/commit/d7fe3b76760bb0a2a4c5f125615f42ea31fb0833)_
 
 # Hi!A Festival
 <br>
@@ -87,7 +87,7 @@ Wir haben als Team mehrere Tests mit Freunden und Familienmitgliedern durchgefü
 ## Iterativ verbesserte Dialoge
 <br>
 
-Wir haben mehr Utterances für den User hinzugefügt und einige Sprechpausen von Alexa angepasst (Bsp anstatt 2 Sekunden eine). Zudem haben wir dafür gesorgt, dass Alexas Antworten kürzer und natürlicher wirken.
+Wir haben mehr Utterances für den User hinzugefügt und einige Sprechpausen von Alexa angepasst (Zum Beispiel anstatt zwei Sekunden nur eine). Zudem haben wir dafür gesorgt, dass Alexas Antworten kürzer und natürlicher wirken.
 
 <br>
 
@@ -127,6 +127,7 @@ Wir hatten Probleme die Sprechpausen einzubauen, da wir auf die Datei im s3 Buck
 - Besserer Ablauf der Intents
 - FallBackIntent konfigurieren, damit Alexa besser auf unverständliche Eingaben reagiert
 - Dialoge weiter verbessern
+- Audio fertig implementieren
 
 
 <br>
