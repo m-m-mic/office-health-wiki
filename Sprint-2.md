@@ -12,7 +12,8 @@ Am 10. Dezember 2021 haben wir im Rahmen des Hi!A Festivals unseren "Office Heal
 ## Planung
 <br>
 
-_Hier Planung erklären_
+Melanie hat die PowerPoint Präsentation für die Vorstellung vorbereitet und Alexander hat in diese noch die Erklärung zum Code ergänzt.
+Nebenbei haben Melanie und Alexander noch den Ablauf geplant.
 
 <br>
 
