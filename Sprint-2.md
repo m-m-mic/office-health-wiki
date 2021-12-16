@@ -101,8 +101,47 @@ In diesen Sprint haben wir unseren Übungsablauf nochmal überarbeitet um den Ab
 ## Verbesserter Übungsablauf
 <br>
 
-_Melli, hier Erklärung einfügen_
+In diesem Sprint wurde daran gearbeitet, dass der Counter der `class workout_initHandler` nun auch verschiedene Sätze beim runterzählen bildet und einen Seitenwechsel bei entsprechenden Übungen durchlaufen kann. <br>
 
+```python
+        temp_time = time          
+        over_thirty= ["<break time =\"10s\"/> Weiter weiter weiter. <break time =\"10s\"/> Los, Noch " + str((time-20)) + " Sekunden<break time =\"10s\"/>! ", "<break time =\"10s\"/> Noch " + str((time-10)) + " Sekunden hast du vor dir! <break time =\"10s\"/> Weiter! <break time =\"10s\"/>", "<break time =\"10s\"/> Die " + str((time-10)) + " Sekunden hälst du aus! <break time =\"10s\"/> Zeig was in dir steckt! <break time =\"10s\"/>" ]
+        equal_thiry = ["Das dauert wohl noch etwas länger, genau gesagt noch " + str(time) + " Sekunden. Also beweg dich mal so richtig!<break time =\"10s\"/> Kommst du schon ins Schwitzen? <break time =\"10s\"/>", str(time) + " Sekunden sind doch nicht so viel! Steck deine ganze Energie rein! <break time =\"10s\"/> Mach nicht schlapp! <break time =\"10s\"/>", "Weiter, nicht schlapp machen!<break time =\"10s\"/> Noch " + str((time-10)) + " Sekunden. <break time =\"10s\"/> Du kommst immer näher an das Ende deiner Übung. "  ]
+        over_ten =["Die Zeit läuft, noch " + str(time) + " Sekunden, streng dich also mal an! <break time=\"9s\"/> ", "Zeig mir was du drauf hast. Noch " + str(time) + "Sekunden. Gib jetzt nicht auf! <break time=\"9s\"/>", str(time) + " Sekunden liegen noch vor dir. Beweg und konzentrier dich, dann vergisst du auch ganz schnell die Zeit. <break time=\"8s\"/>" ]
+        equal_ten=["Die letzten 10 Sekunden schaffst du bestimmt. <break time =\"3s\"/>", "10 Sekunden nur noch! Jetzt mein ichs ernst: gib alles was du noch in dir hast! <break time =\"2s\"/>", "Die letzten Sekunden kannst du an deiner Hand runter zählen, also gib noch mal richtig Gas! <break time =\"2s\"/>"]
+        equal_five =["Noch 5 Sekunden. Fünf. Vier. Drei. Zwei. Eins. Na endlich, geschafft! ", "It's the final countdown! Fünf. Vier. Drei. Zwei. Eins. Geschafft! ", "Die letzten Sekunden! Fünf. Vier. Drei. Zwei. Eins. Fertig! "]
+        outp = ("Du hast " + str(time) + " Sekunden vor dir. Also dann, auf die Plätze, fertig, los! ") 
+```
+Die möglichen Outputs werden in unterschiedlichen Listen gespeichert. Wenn wir dann den Index der jeweiligen Liste mit einer aus der `random`-Funktion erstellten Zahl rauslesen lassen, erhalten wir unterschiedliche Countdowns. Damit soll die vorherige Redundanz des Outputs wegfallen. <br>
+
+```python
+        while temp_time != 0: # Zählt runter 
+            while time != 0:
+                #random_int = random.randint(0,2) #
+                if time > 30:
+                    outp += over_thirty[random.randint(0,2)]
+                    time -= 30
+                if time == 30: 
+                    outp +=  equal_thiry[random.randint(0,2)]
+                    time -= 25
+                if time > 10: 
+                    outp += over_ten[random.randint(0,2)]
+                    time -= 10
+                if time == 10:
+                    outp += equal_ten[random.randint(0,2)]
+                    time -= 5
+                if time == 5:
+                    outp +=  equal_five[random.randint(0,2)]
+                    time -= 5
+            if attr["exercise_countdown"][2] == True: # Überprüft pb Seitenwechsel
+                attr["exercise_countdown"][2] = False
+                time = temp_time
+                outp +=  ("Und jetzt wird die Übung auf der anderen Seite gemacht. Los gehts! ")
+            else:
+                temp_time -= temp_time
+```
+Im Wert `temp_time` ist der selbe Wert von der Variable `time`. Die zweite `while`-Schleifen die sich an dem Wert von `time` orientiert wird für den ersten Durchlauf der Übung benötigt. `time` wird dabei nach jeder `if`-Bedingung mit einem vorbestimmten Wert subtrahiert. Ist `time == 0` setzt die äußere `while`-Schleife mit der `temp_time` Variable in Kraft. Hier wird dann überprüft, ob es einen Seitenwechsel gibt. Ist dies der Fall (`True`) so wird der Wert zuerst auf `False` gesetzt um eine Endlosschleife zu verhindern. Danach wird `time` wieder seinen ursprünglicher Wert mithilfe von `temp_time` zugewiesen. 
+Ist der Seitenwechsel vorbei oder es gab keinen Seitenwechsel wird `temp_time` mit seinen eigenen Wert subtrahiert und somit gleich 0 gesetzt. Dadurch endet die äußere `while`-Schleife und Alexa fährt mit dem vorhergesehenen Programm weiter.
 <br>
 
 ## Verbesserte Sprechpausen mit `audio`
