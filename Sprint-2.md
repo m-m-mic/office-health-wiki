@@ -60,7 +60,27 @@ Um unser Interaction Model in diesem Sprint zu verbessern haben wir mit mehreren
 ## Usability Testing
 <br>
 
-_Unsere Ergebnisse hier einfügen_
+Wir haben als Team mehrere Tests mit Freunden und Familienmitgliedern durchgeführt um unseren Skill vollständig zu testen. Dabei haben wir Personen mit verschiedenen Vorerfahrungen mit Sprachassistenten befragt, um möglichst diverse Erfahrungsberichte zu sammeln. Die Ergebnisse besprechen wir am 17.12.2021 in unserem Sprint Review.
+
+<br>
+
+<details>
+<summary ><b>Unsere durchgeführten Tests</b></summary>
+    <br>
+    <p align="center">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/usability-slides/us1.png" width="350" alt="Folie 1">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/usability-slides/us2.png" width="350" alt="Folie 2">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/usability-slides/us3.png" width="350" alt="Folie 3">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/usability-slides/us4.png" width="350" alt="Folie 4">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/usability-slides/us5.png" width="350" alt="Folie 5">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/usability-slides/us6.png" width="350" alt="Folie 6">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/usability-slides/us7.png" width="350" alt="Folie 7">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/usability-slides/us8.png" width="350" alt="Folie 8">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/usability-slides/us9.png" width="350" alt="Folie 9">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/usability-slides/us10.png" width="350" alt="Folie 10">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/usability-slides/us11.png" width="700" alt="Folie 11">
+    </p>
+</details>
 
 <br>
 
