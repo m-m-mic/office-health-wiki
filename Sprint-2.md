@@ -87,7 +87,7 @@ Wir haben als Team mehrere Tests mit Freunden und Familienmitgliedern durchgefü
 ## Iterativ verbesserte Dialoge
 <br>
 
-_Verbesserungen zu speak_output und utterances einfügen_
+Wir haben mehr Utterances für den User hinzugefügt und einige Sprechpausen von Alexa angepasst (Bsp anstatt 2 Sekunden eine). Zudem haben wir dafür gesorgt, dass Alexas Antworten kürzer und natürlicher wirken.
 
 <br>
 
