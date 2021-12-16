@@ -38,3 +38,4 @@ Zudem sollte nicht vergessen werden, den Code in regelmäßigen Abständen in da
 | -------- | --------- | --------- | ---------| --------- | --------- |
 | Sprint 0 |Konzept / Issues|Interaction Model | Storyboard | Dialoge | Interaction Model |
 | Sprint 1 | Recherche, Intents, Wiki| Struktur, Intents | Struktur, Intents | Recherche, Intents, Wiki | Struktur, Intents|
+| Sprint 2 | Usability Testing | Usability Testing | Usability Testing | Usability Testing | Usability Testing |
