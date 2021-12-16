@@ -35,11 +35,6 @@ Um unser Interaction Model in diesem Sprint zu verbessern haben wir mit mehreren
 
 _Unsere Ergebnisse hier einfügen_
 
-<details class="note-details">
-<summary class="arrow-summary"><b>Hier klicken, um alle Notizen zu sehen</b></summary>
-    <img class="note-img" src="test_details.jpg" alt="Usability Testing Notizen">
-</details>
-
 <br>
 
 ## Iterativ verbesserte Dialoge
@@ -52,11 +47,11 @@ _Verbesserungen zu speak_output und utterances einfügen_
 # Implementierung
 <br>
 
-In diesen Sprint haben wir...
+In diesen Sprint haben wir unseren Übungsablauf nochmal überarbeitet um den Ablauf noch verständlicher zu machen.
 
 <br>
 
-## Melli Übungsablauf
+## Verbesserter Übungsablauf
 <br>
 
 _Melli, hier Erklärung einfügen_
@@ -73,60 +68,18 @@ _Hier Erklärung einfügen_
 # Sprint Review Planung
 <br>
 
-_Hier Planung für Sprint Review einbauen_
+
+**Usability Testing Ergebnisse:**
+- Was haben wir aus dem Testing gelernt?
+- Was muss noch gemacht werden, um den Skill-Ablauf weiter zu verbessern
 
 <br>
 
-<style>
-.note-details{
-    background-color: #252626;
-    padding: 5px 5px 7px 5px;
-    /*top right bottom left*/
-    border-radius: 8px;
-}
-.note-img{
-    text-align: center;
-    margin: 10px 0 -5px 0;
-    border-radius: 5px;
-}
-/*details animation on open*/
-@keyframes details-show {
-    from {
-        opacity:0;
-        transform: var(--details-translate, translateY(-0.5em));
-    }
-}
-/* changes to arrow for animation */
-summary.arrow-summary{
-    padding: 3px 0 0 21px;
-    display: block;
-    position: relative;
-    cursor: pointer;
-}
-summary.arrow-summary:before {
-    content: '';
-    border-width: .4rem;
-    border-style: solid;
-    border-color: transparent transparent transparent white;
-    position: absolute;
-    top: 9px;
-    left: 5px;
-    transform: rotate(0);
-    transform-origin: .2rem 50%;
-    transition: .25s transform ease;
-    margin-left: 2px;
-}
-details[open] > summary.arrow-summary:before {
-    transform: rotate(90deg);
-    transition: 0.45s transform ease;
-}
-details > summary.arrow-summary {
-    list-style-type: none;
-}
-details > summary.arrow-summary::-webkit-details-marker {
-    display: none;
-}
-details[open] > *:not(summary) {
-animation: details-show 150ms ease-in-out;
-}
-</style>
+**Was wollen wir in Sprint 3 schaffen:**
+- Implementierung der Timer-Funktion
+- Besserer Ablauf der Intents
+- FallBackIntent konfigurieren, damit Alexa besser auf unverständliche Eingaben reagiert
+- Dialoge weiter verbessern
+
+
+<br>
