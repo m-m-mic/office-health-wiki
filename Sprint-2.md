@@ -61,7 +61,7 @@ _Melli, hier Erklärung einfügen_
 ## Verbesserte Sprechpausen mit `audio`
 <br>
 
-_Hier Erklärung einfügen_
+Hatten Probleme die Sprechpausen einzubauen, da wir auf die Datei im s3 Bucket nicht zugreifen konnten. Wir haben uns bei anderen Teams informiert, wie sie das gelöst haben und diese Teilaufgabe in Sprint 3 verlagert.
 
 <br>
 
