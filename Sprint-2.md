@@ -23,6 +23,23 @@ Unsere Präsentation fand am Freitag ab 15:10 statt. Zu Beginn haben wir uns all
 
 <br>
 
+<details>
+<summary ><b>Unsere PowerPoint Folien</b></summary>
+    <br>
+    <p align="center">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/hia-slides/Folie1.PNG" width="350" alt="Folie 1">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/hia-slides/Folie2.PNG" width="350" alt="Folie 2">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/hia-slides/Folie3.PNG" width="350" alt="Folie 3">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/hia-slides/Folie4.PNG" width="350" alt="Folie 4">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/hia-slides/Folie5.PNG" width="350" alt="Folie 5">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/hia-slides/Folie6.PNG" width="350" alt="Folie 6">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/hia-slides/Folie7.PNG" width="350" alt="Folie 7">
+    <img src="https://github.com/ID-Start-Winter21/start-team-10/blob/main/img-folder/hia-slides/Folie8.PNG" width="350" alt="Folie 8">
+    </p>
+</details>
+
+<br>
+
 ## Feedback
 <br>
 
