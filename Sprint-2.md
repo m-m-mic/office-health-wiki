@@ -19,7 +19,16 @@ _Hier Planung erklären_
 ## Ablauf
 <br>
 
-_Hier Ablauf erklären_
+Unsere Präsentation fand am Freitag ab 15:10 statt. Zu Beginn haben wir uns alle den Zuschauern vorgestellt und anhand der PowerPoint Präsentation den Skill erklärt. Daraufhin folgte die Demo des Skills: Michael führte das Gespräch mit Alexa, währenddessen zeigten Isabella, Melanie und Evi, wie es aussehen könnte, wenn man den Anweisungen von bei den Sportübungen Alexa folgt. Zum Abschluss erklärte Alex den Zuschauern noch wichtige Stellen in unserem Code.
+
+<br>
+
+## Feedback
+<br>
+
+Wir haben sehr viel positives Feedback erhalten und zudem auch noch ein paar Vorschläge für zukünftige Features:
+- Verbindung mit Kalendar 
+- Übungen falls man einen Anzug an hat
 
 <br>
 
