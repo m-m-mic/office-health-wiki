@@ -26,6 +26,9 @@
   * [Implementierung](https://github.com/ID-Start-Winter21/start-team-10/wiki/Sprint-2#implementierung)
   * [Sprint Review Planung](https://github.com/ID-Start-Winter21/start-team-10/wiki/Sprint-2#sprint-review-planung)
 * ### [Sprint 3](https://github.com/ID-Start-Winter21/start-team-10/wiki/Sprint-3)
+  * [Finales Interaction Model](https://github.com/ID-Start-Winter21/start-team-10/wiki/Sprint-3#finales-interaction-model)
+  * [Implementierung](https://github.com/ID-Start-Winter21/start-team-10/wiki/Sprint-3#implementierung)
+  * [Finale Präsentation](https://github.com/ID-Start-Winter21/start-team-10/wiki/Sprint-3#finales-interaction-model)
 <br>
 
 
