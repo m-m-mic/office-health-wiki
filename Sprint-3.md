@@ -144,4 +144,37 @@ Mögliche Erweiterungen sind:
 ## Reflexion
 
 ### Was haben wir gelernt?
-* blabla
+* Dialoge gestalten und mit Usability Testings verbessern
+* Design ist nicht nur zum anschauen (nicht nur visuell)
+* Neue Tools kennengelernt
+* erste Programmiererfahrung, Anwendung von dem was wir in den Vorlesungen gelernt haben
+* etwas entwicklen, dass einen Sinn/Nutzen hat
+* einfach anfangen, auch wenn man überfordert ist
+* vor dem Machen erstmal schauen, was möglich ist
+
+### Welche Kompetenzen haben wir im Bereich Implementierung erworben?
+* Trial & Error gehört dazu und kann sehr helfen
+* Umgang mir Python in einem komplexeren Projekt
+* Dialoge im Alexa Skill implementieren
+* Sprechpausen einbauen
+
+### Welche Kompetenzen im Bereich Design haben wir erworben?
+* Dialoge können auch designed werden
+* 
+
+### Wie können wir darauf aufbauen?
+* mehr Sicherheit bei Projekten
+* Gelerntes in anderen Projekten umsetzten (nicht nur Alexaskills)
+* bei neuen Aufgaben nicht zurückschrecken und einfach anfangen
+* stets offen für neue Ideen sein
+* erste Programmiererfahrung ist auch für die künftigen Semester und für das Arbeitsleben wichtig
+* Dialoge gestalten kann auch für Textinhalte in Apps hilfreich sein
+
+### Was nehmen wir aus der Teamarbeit für zukünftige Projekte mit? 
+* Gute Planung und Treffen in regelmäßigen Abständen sind wichtig für ein effektives Projektmanagement
+* Wichtig, alle Mitglieder einzubinden, damit Aufgaben gleichmäßig verteilt sind
+* Jeder kann durch seine Ideen das Projekt zu etwas ganz besonderen machen
+* Offene Kommunikation hilft nicht nur bei der Teamarbeit, sondern stärkt diese auch :)
+* Wenn man während dem Meeting vom Thema abschweift ist es vollkommen okay (Jeder braucht mal Pausen)
+
+ 
