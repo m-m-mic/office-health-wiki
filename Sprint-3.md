@@ -129,7 +129,8 @@ Mögliche Erweiterungen sind:
 * Sweat Levels umsetzten
 * Option für räumliche Einschränkungen 
 * Musik während der Übungen und dem Arbeiten
-
+* Blocker im online Kalender
+* User auf die Vorteile der Übungen aufmerksam machen
 
 <br>
 
