@@ -31,7 +31,14 @@ Damit der Skill noch besser läuft wurden basierend auf das Usability-Testing no
 ## Verbesserte Sprechpausen mit `audio`
 <br>
 
-__Erklärung einfügen__
+Nachdem im letzten Sprint das Einfügen von selbst erstellten Audiodateien nicht funktioniert hat, haben wir uns entschieden die Audio-Bibliothek von Amazon zu verwenden. Um diese Audio-Dateien in den ```speak_output``` einzufügen mussten wir nicht zuerst einen AWS-Account erstellen, wir konnten sie einfach wie folgt einbauen:
+
+```python
+speak_output = "<speak>" + spo_1[random.randrange(0, len(spo_1)-1)] + "<audio src=\"soundbank://soundlibrary/foley/amzn_sfx_clock_ticking_long_01\"/><audio src=\"soundbank://soundlibrary/foley/amzn_sfx_clock_ticking_long_01\"/><audio src=\"soundbank://soundlibrary/foley/amzn_sfx_clock_ticking_long_01\"/>" + spo_2[random.randrange(0, len(spo_2)-1)] + " " + spo_3[random.randrange(0, len(spo_3)-1)] + " " + spo_4[random.randrange(0, len(spo_4)-1)] + " " + spo_5[random.randrange(0, len(spo_5)-1)] + "</speak>"
+
+```
+
+Die Audio-Datei von Amazon ist 4,09 Sekunden lang, weshalb wir sie mehrmals hintereinander einfügen mussten, damit die Pause über zehn Sekunden lang ist.
 
 <br>
 
