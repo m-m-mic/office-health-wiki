@@ -155,15 +155,17 @@ Mögliche Erweiterungen sind:
 * Dialoge im Alexa Skill implementieren
 * Sprechpausen einbauen
 * erste Programmiererfahrung, Anwendung von dem was wir in den Vorlesungen gelernt haben
+* Troubleshooting --> Lesen von Dokumentation und wie man am besten googlet
 
 ### Welche Kompetenzen im Bereich Design haben wir erworben?
 * Dialoge können auch designed werden 
 * Persönlichkeit kreieren 
-* Dialoge gestalten und mit Usability Testings verbessern
+* natürliche, verständliche Dialoge gestalten und mit Usability Testings verbessern
+* Worauf muss bei der Gestaltung eines Icons geachtet werden
 
 ### Wie können wir darauf aufbauen?
 * mehr Sicherheit bei Projekten
-* Gelerntes in anderen Projekten umsetzten (nicht nur Alexaskills)
+* Gelerntes in anderen Projekten umsetzten (nicht nur Alexa Skills)
 * bei neuen Aufgaben nicht zurückschrecken und einfach anfangen
 * stets offen für neue Ideen sein
 * erste Programmiererfahrung ist auch für die künftigen Semester und für das Arbeitsleben wichtig
