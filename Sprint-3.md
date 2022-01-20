@@ -144,11 +144,8 @@ Mögliche Erweiterungen sind:
 ## Reflexion
 
 ### Was haben wir gelernt?
-* Dialoge gestalten und mit Usability Testings verbessern
-* Design ist nicht nur zum anschauen (nicht nur visuell)
 * Neue Tools kennengelernt
-* erste Programmiererfahrung, Anwendung von dem was wir in den Vorlesungen gelernt haben
-* etwas entwicklen, dass einen Sinn/Nutzen hat
+* einen sicken Skill erstellen
 * einfach anfangen, auch wenn man überfordert ist
 * vor dem Machen erstmal schauen, was möglich ist
 
@@ -157,10 +154,11 @@ Mögliche Erweiterungen sind:
 * Umgang mir Python in einem komplexeren Projekt
 * Dialoge im Alexa Skill implementieren
 * Sprechpausen einbauen
+* erste Programmiererfahrung, Anwendung von dem was wir in den Vorlesungen gelernt haben
 
 ### Welche Kompetenzen im Bereich Design haben wir erworben?
-* Dialoge können auch designed werden
-* 
+* Dialoge können auch designed werden 
+* Dialoge gestalten und mit Usability Testings verbessern
 
 ### Wie können wir darauf aufbauen?
 * mehr Sicherheit bei Projekten
