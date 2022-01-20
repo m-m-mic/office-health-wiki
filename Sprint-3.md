@@ -1,4 +1,4 @@
-_Letzter commit vor Abgabe: [d7fe3b7](https://github.com/ID-Start-Winter21/start-team-10/commit/d7fe3b76760bb0a2a4c5f125615f42ea31fb0833)_
+_Letzter commit vor Abgabe: [696fb6c](https://github.com/ID-Start-Winter21/start-team-10/commit/696fb6c250d9907d729d0e51d8bab88a6e94dbc5)_
 
 # Finales Interaction Model
 <br>
@@ -46,14 +46,14 @@ Die Audio-Datei von Amazon ist 4,09 Sekunden lang, weshalb wir sie mehrmals hint
 # Finale Präsentation
 <br>
 
-__Erklärung einfügen__
+Am 21.01.2022 stellen wir unseren Skill **Office Health** vor. Diese Präsentation umfängt eine Demonstration des Skills, ein Rückblick auf unsere Arbeit während des Projektmoduls und eine Reflexion.
 
 <br>
 
 ## Demonstration des Skills
 <br>
 
-__Erklärung einfügen__
+Wir präsentieren in Rahmen der finalen Präsentation unseren Skill. 
 
 <br>
 
