@@ -10,7 +10,7 @@ __Erklärung einfügen__
 ## Usability Testing
 <br>
 
-Das Usability-Testing ergab, dass der Aufbau des Skills gut verständlich ist und die Relevanz von Office Health deutlich ist. Nur an manchen Stellen bleiben Nutzer noch hängen, wenn sie ausgefallene Utterances benutzen. Auch ein teil der Übungen kann bei einzelnen Personen missverstanden werden und muss noch verbessert werden.
+Das Usability-Testing ergab, dass der Aufbau des Skills gut verständlich ist und die Relevanz von Office Health deutlich ist. Nur an manchen Stellen bleiben Nutzer noch hängen, wenn sie ausgefallene Utterances benutzen. Auch ein Teil der Übungen kann bei einzelnen Personen missverstanden werden und muss noch verbessert werden.
 
 <br>
 
