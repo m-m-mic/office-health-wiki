@@ -24,7 +24,7 @@ __Erklärung einfügen__
 # Implementierung
 <br>
 
-__Erklärung einfügen__
+__Damit der Skill noch besser läuft wurden basierend auf das Usability-Testing noch weitere Utterances eingefügt.__
 
 <br>
 
