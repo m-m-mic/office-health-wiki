@@ -158,6 +158,7 @@ Mögliche Erweiterungen sind:
 
 ### Welche Kompetenzen im Bereich Design haben wir erworben?
 * Dialoge können auch designed werden 
+* Persönlichkeit kreieren 
 * Dialoge gestalten und mit Usability Testings verbessern
 
 ### Wie können wir darauf aufbauen?
