@@ -135,6 +135,6 @@ Mögliche Erweiterungen sind:
 <br>
 
 ## Reflexion
-<br>
 
-__Erklärung einfügen__
+### Was haben wir gelernt?
+* blabla
