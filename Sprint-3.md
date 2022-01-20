@@ -3,28 +3,28 @@ _Letzter commit vor Abgabe: [d7fe3b7](https://github.com/ID-Start-Winter21/start
 # Finales Interaction Model
 <br>
 
-__Erklärung einfügen__
+Für das letzte Interaction Model unseres Skills haben wir die Ergebnisse der Usability Tests zusammengefasst und die Dialoge dementsprechend verbessert.
 
 <br>
 
 ## Usability Testing
 <br>
 
-Das Usability-Testing ergab, dass der Aufbau des Skills gut verständlich ist und die Relevanz von Office Health deutlich ist. Nur an manchen Stellen bleiben Nutzer noch hängen, wenn sie ausgefallene Utterances benutzen. Auch ein Teil der Übungen kann bei einzelnen Personen missverstanden werden und muss noch verbessert werden.
+Das Usability Testing ergab, dass der Aufbau des Skills gut verständlich ist und die Relevanz von Office Health deutlich ist. Nur an manchen Stellen bleiben Nutzer noch hängen, wenn sie ausgefallene Utterances benutzen. Auch ein Teil der Übungen kann bei einzelnen Personen missverstanden werden und muss noch verbessert werden.
 
 <br>
 
 ## Dialoge
 <br>
 
-__Erklärung einfügen__
+Damit der Skill noch besser läuft wurden basierend auf das Usability Testing noch weitere Utterances eingefügt.
 
 <br>
 
 # Implementierung
 <br>
 
-Damit der Skill noch besser läuft wurden basierend auf das Usability-Testing noch weitere Utterances eingefügt.
+In diesem Sprint haben wir unseren Code erneut angepasst, um die Benutzerfreundlichkeit von Office Health zu optimieren.
 
 <br>
 
