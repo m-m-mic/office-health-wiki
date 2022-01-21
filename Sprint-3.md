@@ -57,6 +57,21 @@ Wir präsentieren in Rahmen der finalen Präsentation unseren Skill.
 
 <br>
 
+<details>
+<summary ><b>PowerPoint Folien</b></summary>
+    <br>
+    <p align="center">
+    <img src="https://user-images.githubusercontent.com/85286401/150493336-1ee71f86-dad3-47fa-82a3-f3b6da8f4354.JPG" width="350" alt="Folie 1">
+    <img src="https://user-images.githubusercontent.com/85286401/150493389-d6b7cfc4-1964-4319-8a22-1fc73ac55859.JPG" width="350" alt="Folie 2">
+    <img src="https://user-images.githubusercontent.com/85286401/150493430-e6fa7de7-9689-4e28-aab1-268aed92b8f8.JPG" width="350" alt="Folie 3">
+    <img src="https://user-images.githubusercontent.com/85286401/150493455-b070350e-5c59-4572-a9ff-7c61ccd6d272.JPG" width="350" alt="Folie 4">
+    <img src="https://user-images.githubusercontent.com/85286401/150493491-2d042399-c592-472c-a318-617927c345c2.JPG" width="350" alt="Folie 5">
+    <img src="https://user-images.githubusercontent.com/85286401/150493532-3f4cc581-59c0-4e85-8dec-6a4bd002bf06.JPG" width="350" alt="Folie 6">
+    </p>
+</details>
+
+<br>
+
 ## Entwicklungsprozess
 <br>
 
